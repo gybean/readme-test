@@ -34,4 +34,5 @@
 - [x] 체크리스트 2
 
 ### 이미지 넣기
+issues 탭 들어가서 코드 복붙
 ![Image](https://github.com/user-attachments/assets/d210d818-f847-4078-a705-8c6a208ac63b)

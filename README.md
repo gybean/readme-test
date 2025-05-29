@@ -37,3 +37,9 @@
 issues 탭 들어가서 코드 복붙
 ![Image](https://github.com/user-attachments/assets/d210d818-f847-4078-a705-8c6a208ac63b)
 <img src="https://github.com/user-attachments/assets/d210d818-f847-4078-a705-8c6a208ac63b" style="width: 500px" />
+
+### 링크 걸기
+- url 주소 복붙 가능
+https://github.com/gybean/readme-test/edit/main/README.md
+
+- [깃허브 연결](https://github.com/gybean/readme-test/edit/main/README.md)
